@@ -1,0 +1,7 @@
+Hey I am new file
+<<<<<<< HEAD
+Hey
+=======
+hey dear
+How are you
+>>>>>>> R3
